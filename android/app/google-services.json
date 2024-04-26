@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1048115043892-c4ttjpu48blpqcsnq9j20hcbhqrtrc3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_food_delivery_app",
+            "certificate_hash": "7fbfbb924e9ef8fb32f0971def8aa0ec85de0350"
+          }
+        },
+        {
           "client_id": "1048115043892-4g17lrviks567g9gi5lsnbc9a5e0qlf7.apps.googleusercontent.com",
           "client_type": 3
         }
