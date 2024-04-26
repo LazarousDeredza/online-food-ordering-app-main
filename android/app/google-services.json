@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048115043892",
+    "firebase_url": "https://online-food-delivery-app-b5bc1-default-rtdb.firebaseio.com",
+    "project_id": "online-food-delivery-app-b5bc1",
+    "storage_bucket": "online-food-delivery-app-b5bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048115043892:android:e45e467b5600129c733461",
+        "android_client_info": {
+          "package_name": "com.example.online_food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048115043892-4g17lrviks567g9gi5lsnbc9a5e0qlf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMcAUdD70DBHrff8EGXZ1u8BDfyxBYxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048115043892-4g17lrviks567g9gi5lsnbc9a5e0qlf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048115043892-47elov4e2qca7ln0ges231a8sk772m83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineFoodDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

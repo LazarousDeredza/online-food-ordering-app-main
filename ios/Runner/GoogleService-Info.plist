@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048115043892-47elov4e2qca7ln0ges231a8sk772m83.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048115043892-47elov4e2qca7ln0ges231a8sk772m83</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1048115043892-2f2n842k06a27db22hu0j1vv3r284baq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDd2XcejdqNLL_QXX3trV4dsW6gwaPy0z0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048115043892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.onlineFoodDeliveryApp</string>
+	<key>PROJECT_ID</key>
+	<string>online-food-delivery-app-b5bc1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>online-food-delivery-app-b5bc1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048115043892:ios:09b62ad7e9d309ca733461</string>
+	<key>DATABASE_URL</key>
+	<string>https://online-food-delivery-app-b5bc1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
